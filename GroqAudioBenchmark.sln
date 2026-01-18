@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroqAudioBenchmark", "GroqAudioBenchmark.csproj", "{BF517B72-A2DA-4F4A-8C6B-79783F14E0ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF517B72-A2DA-4F4A-8C6B-79783F14E0ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF517B72-A2DA-4F4A-8C6B-79783F14E0ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF517B72-A2DA-4F4A-8C6B-79783F14E0ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF517B72-A2DA-4F4A-8C6B-79783F14E0ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F613AB87-A255-480F-994A-A75825F519EF}
+	EndGlobalSection
+EndGlobal
